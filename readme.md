@@ -1,0 +1,12 @@
+### Pages
+1. [Home](https://vebfreelancer.github.io/kythera-blue/dist/)
+2. [Discover](https://vebfreelancer.github.io/kythera-blue/dist/discover.html)
+3. [Sub Cat - People](https://vebfreelancer.github.io/kythera-blue/dist/sub-cat-people.html)
+4. [Sub Cat - Family](https://vebfreelancer.github.io/kythera-blue/dist/sub-cat-family.html)
+5. [Entry Page](https://vebfreelancer.github.io/kythera-blue/dist/entry-page.html)
+6. [New Entry](https://vebfreelancer.github.io/kythera-blue/dist/new-entry.html)
+7. [Profile MAIN](https://vebfreelancer.github.io/kythera-blue/dist/profile.html)
+8. [Entry Preview](https://vebfreelancer.github.io/kythera-blue/dist/entry-preview.html)
+9. [About](https://vebfreelancer.github.io/kythera-blue/dist/about.html)
+10. [About FAQ](https://vebfreelancer.github.io/kythera-blue/dist/about-faq.html)
+11. [Advanced Search](https://vebfreelancer.github.io/kythera-blue/dist/search.html)
